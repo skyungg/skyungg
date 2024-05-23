@@ -5,8 +5,8 @@
 
 
 ### 📚Education
-- Samsung SW Academy For Youth (a.k.a SSAFY) 10th (2023.07 ~ )
-- Kongju National University, Computer Engineering (2023.02)
+- 삼성 청년 SW 아카데미(SSAFY) 10기 (2023.07 ~ )
+- 공주대학교 컴퓨터공학부 컴퓨터공학과 졸업 (2023.02)
 
 ### 💙Project
 |Period|Project|Category|
