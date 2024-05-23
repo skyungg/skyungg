@@ -19,3 +19,10 @@
 
 <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white"> <img src="https://img.shields.io/badge/jira-0052CC?style=for-the-badge&logo=jira&logoColor=white">   
 
+
+### 💎It's kyung
+[![Solved.ac프로필](http://mazassumnida.wtf/api/generate_badge?boj=mycolor)](https://solved.ac/mycolor)
+
+<img src="https://github-readme-stats.vercel.app/api?username=skyungg&show_icons=true&theme=vue">
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=skyungg)](https://github.com/anuraghazra/github-readme-stats)
