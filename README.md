@@ -1,16 +1,13 @@
-## 👋 Seunkyung 👋
+## 🐬 Seunkyung 🐬
+세상을 IT고 싶은 개발자, 허승경입니다.
 
-<!--
-**skyungg/skyungg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 📚Education
+- Samsung SW Academy For Youth (a.k.a SSAFY) 10th (2023.07 ~ )
+- Kongju National University, Computer Engineering (2023.02)
 
-Here are some ideas to get you started:
+### 💙Project
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🌏TechStack
+
+
+
