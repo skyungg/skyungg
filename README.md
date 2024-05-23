@@ -1,5 +1,8 @@
-## 🐬 Seunkyung 🐬
-세상을 IT고 싶은 개발자, 허승경입니다.
+# 🐬 Seunkyung 🐬
+<img src="https://img.shields.io/badge/Portpolio-006600?style=for-the-badge&logo=undertale&logoColor=white"> <img src="https://img.shields.io/badge/tistory-000000?style=for-the-badge&logo=tistory&logoColor=white"> 
+
+#### 어제보다 오늘, 오늘보다 내일, 더 나은 개발자를 꿈꾸는 허승경입니다.
+
 
 ### 📚Education
 - Samsung SW Academy For Youth (a.k.a SSAFY) 10th (2023.07 ~ )
@@ -8,9 +11,9 @@
 ### 💙Project
 |Period|Project|Category|
 |------|---|---|
-|2024.04 ~ 2024.05|우리가 만들어가는 장소의 분위기, Throwng 🥈|Web App|
-|2024.02 ~ 2024.04|다시보고 싶은 영화를 영화관에서 영화 재상영 크라우딩 펀딩, 무딩|Web App|
-|2024.01 ~ 2024.02|어디선가 낚시왕을 꿈꾸는, 오늘은 낚시왕 🏆|Web App|
+|2024.04 ~ 2024.05|우리가 만들어가는 장소의 분위기, **Throwng** 🥈|Web App|
+|2024.02 ~ 2024.04|다시보고 싶은 영화를 영화관에서 영화 재상영 크라우딩 펀딩, **무딩**|Web App|
+|2024.01 ~ 2024.02|어디선가 낚시왕을 꿈꾸는, **오늘은 낚시왕** 🏆|Web App|
 
 
 
