@@ -1,5 +1,5 @@
 # 🐬 Seunkyung 🐬
-<img src="https://img.shields.io/badge/Portpolio-006600?style=for-the-badge&logo=undertale&logoColor=white"> <img src="https://img.shields.io/badge/tistory-000000?style=for-the-badge&logo=tistory&logoColor=white"> 
+<img src="https://img.shields.io/badge/Portpolio-006600?style=for-the-badge&logo=undertale&logoColor=white"> [<img src="https://img.shields.io/badge/tistory-000000?style=for-the-badge&logo=tistory&logoColor=white">](https://imrud.tistory.com/)
 
 #### 어제보다 오늘, 더 나은 개발자를 꿈꾸는 허승경입니다.
 
