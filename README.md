@@ -4,9 +4,9 @@
 ### 💙Project
 |Period|Project|Category|
 |------|---|---|
-|2024.04 ~ 2024.05|우리가 만들어가는 장소의 분위기, [**Throwng**](https://github.com/skyungg/throwng) 🥈|Web App|
+|2024.04 ~ 2024.05|우리가 만들어가는 장소의 분위기, [**Throwng**](https://github.com/skyungg/throwng)🥈 <br/> (내 주변의 음악이 궁금하다면? ➡️ [쓰롱](https://throwng.store)하러 가기) |Web App|
 |2024.02 ~ 2024.04|다시보고 싶은 영화를 영화관에서 영화 재상영 크라우딩 펀딩, [**무딩**](https://github.com/skyungg/mooding) |Web App|
-|2024.01 ~ 2024.02|어디선가 낚시왕을 꿈꾸는, [**오늘은 낚시왕**](https://github.com/skyungg/fishing-king-of-today) 🏆|Web App|
+|2024.01 ~ 2024.02|어디선가 낚시왕을 꿈꾸는, [**오늘은 낚시왕**](https://github.com/skyungg/fishing-king-of-today) 🥇|Web App|
 
 
 
