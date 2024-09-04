@@ -1,8 +1,5 @@
-# 🐬 Seunkyung 🐬
+## 🐬 어제보다 오늘, 더 나은 개발자를 꿈꾸는 🐬
 [<img src="https://img.shields.io/badge/tistory-000000?style=for-the-badge&logo=tistory&logoColor=white">](https://imrud.tistory.com/)
-
-#### 어제보다 오늘, 더 나은 개발자를 꿈꾸는 허승경입니다.
-
 
 ### 💙Project
 |Period|Project|Category|
@@ -19,7 +16,7 @@
 <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white"> <img src="https://img.shields.io/badge/jira-0052CC?style=for-the-badge&logo=jira&logoColor=white">   
 
 
-### 💎It's kyung
+### 💎About
 [![Solved.ac프로필](http://mazassumnida.wtf/api/generate_badge?boj=mycolor)](https://solved.ac/mycolor)
 
 <img src="https://github-readme-stats.vercel.app/api?username=skyungg&show_icons=true&theme=vue">
