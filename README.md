@@ -1,4 +1,4 @@
-## 🐬 어제보다 오늘, 더 나은 개발자를 꿈꾸는 🐬
+## 🐬 어제보다 오늘, 더 나은 나를 꿈꾸는 🐬
 
 ### 💙Project
 |Period|Project|Category|
